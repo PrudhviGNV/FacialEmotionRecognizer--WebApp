@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FacialEmotionDetector/static/css/main.996a38f0.chunk.css",
+    "main.js": "/FacialEmotionDetector/static/js/main.e661599f.chunk.js",
+    "main.js.map": "/FacialEmotionDetector/static/js/main.e661599f.chunk.js.map",
+    "runtime-main.js": "/FacialEmotionDetector/static/js/runtime-main.8d4161f2.js",
+    "runtime-main.js.map": "/FacialEmotionDetector/static/js/runtime-main.8d4161f2.js.map",
+    "static/js/2.f748b66b.chunk.js": "/FacialEmotionDetector/static/js/2.f748b66b.chunk.js",
+    "static/js/2.f748b66b.chunk.js.map": "/FacialEmotionDetector/static/js/2.f748b66b.chunk.js.map",
+    "index.html": "/FacialEmotionDetector/index.html",
+    "precache-manifest.11d9466ac15db0f25266f15ffc2fbf71.js": "/FacialEmotionDetector/precache-manifest.11d9466ac15db0f25266f15ffc2fbf71.js",
+    "service-worker.js": "/FacialEmotionDetector/service-worker.js",
+    "static/css/main.996a38f0.chunk.css.map": "/FacialEmotionDetector/static/css/main.996a38f0.chunk.css.map",
+    "static/js/2.f748b66b.chunk.js.LICENSE.txt": "/FacialEmotionDetector/static/js/2.f748b66b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FacialEmotionDetector/static/media/hero-bg.5cf585fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d4161f2.js",
+    "static/js/2.f748b66b.chunk.js",
+    "static/css/main.996a38f0.chunk.css",
+    "static/js/main.e661599f.chunk.js"
+  ]
+}
